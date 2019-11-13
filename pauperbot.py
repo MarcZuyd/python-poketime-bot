@@ -64,7 +64,7 @@ def hunt():
                 shiny = True
             else:
                 print("Encounter {}: geen shiny".format(encounters))
-                pyautogui.screenshot("ZEMMEL#{}.jpg".format(encounters))
+                pyautogui.screenshot("Zemmel{}.jpg".format(encounters))
                 pressRun()
        
 
