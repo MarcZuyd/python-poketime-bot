@@ -1,0 +1,41 @@
+[
+    {
+        "button": "Username",
+        "coordinates": {
+            "start": {
+                "x": 817,
+                "y": 475
+            },
+            "end": {
+                "x": 1101,
+                "y": 502
+            }
+        }
+    },
+    {
+        "button": "Password",
+        "coordinates": {
+            "start": {
+                "x": 814,
+                "y": 530
+            },
+            "end": {
+                "x": 1102,
+                "y": 557
+            }
+        }
+    },
+    {
+        "button": "Login",
+        "coordinates": {
+            "start": {
+                "x": 883,
+                "y": 586
+            },
+            "end": {
+                "x": 1031,
+                "y": 614
+            }
+        }
+    }
+]
